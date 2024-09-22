@@ -10,4 +10,4 @@ else
     exit 1
 fi
 
-docker run -dp 8000:80 --name=result-app result
+docker run -dp 9000:80 --name=result-app result
